@@ -1,5 +1,3 @@
-# Adversarial_Attack
-
 # Adversarial Attack on ResNet-34 – Project 3
 
 ## Overview
